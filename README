@@ -1,0 +1,15 @@
+Bulky Project
+This is a web.net project that uses the MVC pattern and Razor pages. It is a practice project to learn how to implement the MVC model.
+**********************************
+Requirements
+1. Visual Studio 2022
+2. .NET 7 or more 
+***********************************
+How to install and run: 
+1. Clone pproject to your computer
+2. Change DB access link in appsetting.json
+3. Use ef to create Migrations, data will automatic inert to your DB by the code at DBContext(Change if you want)
+4. OK, let's run it
+
+***********************************
+Thank for reading, SuongMai
