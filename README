@@ -1,4 +1,4 @@
-Bulky Project
+#Bulky Project
 This is a web.net project that uses the MVC pattern and Razor pages. It is a practice project to learn how to implement the MVC model.
 **********************************
 Architecture: MVC
@@ -18,3 +18,4 @@ How to install and run:
 
 ***********************************
 Thank for reading, SuongMai
+References : https://www.youtube.com/watch?v=AopeJjkcRvU
