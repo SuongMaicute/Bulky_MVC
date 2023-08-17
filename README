@@ -1,6 +1,11 @@
 Bulky Project
 This is a web.net project that uses the MVC pattern and Razor pages. It is a practice project to learn how to implement the MVC model.
 **********************************
+Architecture: MVC
+- Generic all X_repository into Reponsitory
+- Generic all interface into IRepositiry
+- Dependencies injections into UnitOfWork and IunitOfWork than inject into Program.cs
+**********************************
 Requirements
 1. Visual Studio 2022
 2. .NET 7 or more 
